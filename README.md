@@ -1,16 +1,62 @@
-## Hi there 👋
+## Olá! Eu sou Leonardo Gaspar
 
-<!--
-**LeoGaspar21/LeoGaspar21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Leonardo Gaspar, tenho 25 anos e sou natural da Bahia, Atualmente estou cursando Análise e Desenvolvimento de Sistemas, Amo Tecnologia e busco sempre aprender mais.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤖 Linguagem e Tecnologias
+<img
+  align="left"
+  alt="css"
+  title="css"
+  width="40px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+  />
+
+<img 
+  align="left"
+  alt="css"
+  title="css"
+  width="40px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" 
+  />
+
+<img 
+  align="left"
+  alt="css"
+  title="css"
+  width="40px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" 
+  />
+  
+<img  
+  align="left"
+  alt="css"
+  title="css"
+  width="40px"
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" 
+  />
+  
+<img 
+  align="left"
+  alt="css"
+  title="css"
+  width="40px"
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+  />
+
+<br/>
+<br/>
+
+---
+
+### 📊 Estatísticas
+
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoGaspar21&show_icons=true&theme=dracula)      
+          
+          
