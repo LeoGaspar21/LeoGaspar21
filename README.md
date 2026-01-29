@@ -55,8 +55,6 @@ Me chamo Leonardo Gaspar, tenho 25 anos e sou natural da Bahia, Atualmente estou
 
 ---
 
-### 📊 Estatísticas
-
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoGaspar21&show_icons=true&theme=dracula)      
+    
           
           
